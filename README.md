@@ -1,4 +1,4 @@
-# 𝗔𝗬𝗘𝗦𝗛𝗔-𝗠𝗨𝗦𝗜𝗖 
+# 𝗞𝗔𝗩𝗬𝗔-𝗠𝗨𝗦𝗜𝗖 
  ➥ 𝖥ɪʀsᴛ 𝖥ᴏʀᴋ 𝖳ʜɪs 𝖱ᴇʀᴏ 𝖠ɴᴅ 𝖦ɪᴠᴇ ᴀ 𝖲ᴛᴀʀ ⭐
 ➥ 𝖳ʜᴇɴ ʜᴏsᴛ ᴏɴ ʜᴇʀᴋᴏᴜ / ᴠᴘs / ᴋᴏʏᴀʙ / ᴇᴛᴄ..👨🏻‍💻
 <h1 align="center"
@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗛𝗨𝗡𝗧𝗘𝗥+𝗫𝗗+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝐑ɪʏᴀ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://t.me/ll_hunter_lll"><img src="https://files.catbox.moe/yvwrge.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/VIP_ANKIT_121"><img src="https://files.catbox.moe/zjd1in.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
@@ -23,7 +23,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ifgovtjoftibcdjpvd8nfiokbfobffob0vrb8bd/KhushiMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vipchor/Kavya-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
