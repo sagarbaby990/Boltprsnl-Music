@@ -73,10 +73,10 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url=f"https://t.me/RIYA_NETWORK"
+                text="✭ ᴜᴘᴅᴀᴛᴇ ❥", url=f"https://t.me/rishta_dilon_ka"
             ),
             InlineKeyboardButton(
-                text="✭ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/RIYA_CHAT_SUPPORT"
+                text="✭ sᴜᴘᴘᴏʀᴛ ❥", url=f"https://t.me/+kuM1I-hHEe4xNWJl"
             ),
         ],
       ]
